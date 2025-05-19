@@ -1,0 +1,18 @@
+{
+  "name": "GRIT",
+  "symbol": "GRIT",
+  "description": "GRIT is a utility token on Solana rewarding struggle, consistency, and community contribution. It powers swaps, staking, the Proof of Struggle (PoSg) protocol, and future DAO governance via tGRIT.",
+  "mint": "MfAyeEozTCW1QdLDbv4BYi1y9hYVsXsxWLqppmcMiBq",
+  "decimals": 9,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreie7y3p3bpkdacqcdbbvjtkuf363t6x76egkeoxa7lybzwnlceaz74",
+  "mintAuthority": null,
+  "freezeAuthority": null,
+  "tags": ["utility", "staking", "PoSg", "climate", "governance"],
+  "socials": {
+    "website": "https://solgrit.online",
+    "twitter": "https://twitter.com/dobleduche",
+    "telegram": "https://t.me/BuiltOnGRIT",
+    "youtube": "https://youtube.com/@solgrit",
+    "whitepaper": "https://medium.com/@builtongrit/"
+  }
+}
