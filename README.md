@@ -13,7 +13,7 @@ Token Overview
 How to Use
 
 To use this TokenList in your frontend or application, reference the raw file link directly:
-https://renomase.github.io/grit-tokenlist/GRIT_Jupiter_TokenList.json
+https://renomase.github.io/grit-tokenlist/grit.json
 
 This TokenList is compatible with platforms that support the Solana TokenList standard.
 
