@@ -1,0 +1,15 @@
+{
+    "name": "GRIT",
+    "symbol": "GRIT",
+    "description": "Growth, Resilience, Independence, Tenacity; A Solana utility token built to monetize real struggle through the Proof of Struggle (PoSg) framework.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreie7y3p3bpkdacqcdbbvjtkuf363t6x76egkeoxa7lybzwnlceaz74",
+    "decimals": 9,
+    "mint": "MfAyeEozTCW1QdLDbv4BYi1y9hYVsXsxWLqppmcMiBq",
+    "website": "https://solgrit.online",
+    "extensions": {
+        "twitter": "https://twitter.com/dobleduche",
+        "telegram": "https://t.me/BuiltOnGrit",
+        "youtube": "https://youtube.com/@solgrit",
+        "whitepaper": "https://medium.com/@builtongrit/grit-paper-proof-of-struggle-model-47700e69afb3"
+    }
+}
